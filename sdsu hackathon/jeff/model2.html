@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hackathon</title>
+    
+      <!-- Bootstrap -->
+   
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap-select.css" />
+    
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" />
+    <link href="Libs/jquery-ui-styles/jquery-ui.min.css" rel="stylesheet"/>
+   <script src="Libs/jquery.js"></script>
+    <script src="Libs/jquery-ui.js"></script>
+     <script src="Libs/webgl-utils.js"></script>
+    <script src="Libs/gl-matrix.js"></script>
+    <script src="Viewer/xbim-binary-reader.debug.js"></script>
+    <script src="Viewer/xbim-model-geometry.debug.js"></script>
+    <script src="Viewer/xbim-model-handle.debug.js"></script>
+    <script src="Viewer/xbim-product-type.debug.js"></script>
+    <script src="Viewer/xbim-shaders.debug.js"></script>
+    <script src="Viewer/xbim-state.debug.js"></script>
+    <script src="Viewer/xbim-triangulated-shape.debug.js"></script>
+    <script src="Viewer/xbim-viewer.debug.js"></script>
+    <script src="Browser/xbim-attribute-dictionary.debug.js"></script>
+    <script src="Browser/xbim-browser.debug.js"></script>
+    <script src="Browser/xbim-cobie-utils.debug.js"></script>
+    <script src="Browser/xbim-cobieuk-utils.debug.js"></script>
+    <script src="Browser/xbim-visual-attribute.debug.js"></script>
+    <script src="Browser/xbim-visual-entity.debug.js"></script>
+    <script src="Browser/xbim-visual-model.debug.js"></script>
+    <script src="Browser/xbim-visual-property.debug.js"></script>
+    <script src="Browser/xbim-visual-templates.debug.js"></script>
+    <script src="Browser/xbim-visual-assignment-set.debug.js"></script>
+    <script src="browser.js"></script>
+</head>
+
+<body onload="showModel()">
+    
+    <div id="header">
+      <nav class="navbar navbar-inverse navbar-fixed-top childpanelhead" role="navigation">
+          <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                     <a class="navbar-brand" href="HOME.html">Hackathon</a>
+                </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                  
+                </ul>             
+            </div> 
+        </div>
+        
+     </nav> 
+          
+     
+    </div>
+    
+    
+<!--MAIN CONTENT-->    
+    <div id="content">
+        <div class="container-fluid nocircum">
+            <div class="row gutter-10 nomargin">
+                 <!--Function-->
+                <div class="col-xs-2" >
+                     <div class="window" style="border-left: 1px solid #333;">
+                         
+                         <div class="window-content" style="background-color:#f5f5f5;">
+                            <div class="content-container">
+                            <div class="row nomargin">
+                                
+                <div class="col-xs-2 fullscreen nopadding">
+                        
+                    <ul class="cbp-vimenu">
+                        <li><a  class="icon-archive" href="index.html" type="pill"  ></a></li>
+                        <li><a  class="icon-search"  href="model1.html"  type="pill" ></a></li>
+                    </ul>
+                    
+                </div>
+                          
+                                
+                            
+        <div class="col-xs-10 fullscreen nopadding" >
+      
+                                          
+		<div id="LeftWindowContent" class="function-body">
+									  
+			<div class="window-heading text-center">
+			<ul class="nav nav-pills nocircum text-center">
+			<li role="presentation" style="width:100%" id="window1"><a href="#1" type="pill" class="window-title">Solution</a></li>
+				</ul>
+    <p style="margin:20px 0px 0px 0px;"></p>
+</div>
+    <div class="container-fluid fullscreen nopadding">
+        <div class="row nopadding nomargin">
+
+
+            <div class="col-xs-12 nopadding">
+                <button onclick="highLightWall()">Show Structure</button>
+                <button onclick="highLightDoor()">Show Potential Exit</button>
+                <div class="form-group">
+  <label for="usr">Component Name:</label>
+  <input type="text" class="form-control" id="usr">
+                     <button onclick="searchBuilding()">Search</button>
+                <button onclick="resetSearch()">Reset</button>
+</div>
+            </div>
+        </div>
+    </div>
+                </div>
+                                    
+                                                      
+        </div>
+                                
+                            
+                              
+                            </div>
+                         </div>
+                     </div>
+                </div>
+                   
+    </div>  <!--End of Function Window -->
+                
+                <!--Viewer-->
+                <div class="col-xs-8">
+                  <div class="window">
+                    <div class="window-heading text-center">
+                           <ul class="nav nav-pills nocircum text-center" >
+                               <li role="presentation" style="width:100%" ><a href="#1" type="pill" class="window-title">VIEWER</a></li>
+                             </ul>
+                      </div>
+                     <div  class="window-body"> 
+                        
+                       <canvas id="viewer-canvas" class="content-container"></canvas>
+                     </div>
+                </div>
+                </div> 
+                <!--Info-->
+                 <div class="col-xs-2">
+                        <div class=" window">
+                          <div class="window-heading text-center">
+    <ul class="nav nav-pills nocircum" role="tablist">
+       <li role="presentation" style="width:100%" id="window1"><a href="#1" type="pill" class="window-title">Building Information</a></li>
+    </ul>
+</div>
+<div class="window-body scrollable" ng-show="isSelected(1)">
+    <div id="infobodycontainer" class="container-fluid nopadding nomargin">
+        <div id="ListContainer" class="row nomargin nopadding">
+
+            <div class="col-xs-12 nopadding">
+                <div class="col-xs-3" style="margin:10px 0px 10px 0px;">
+                    <span class="badge">Building</span>
+                </div>
+
+                <div class="list-group filelist">
+                    <div id="attrprop" class="overflow">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!--End of Container-->
+
+</div> <!--End of 3rd Window Body-->
+
+
+
+                        </div><!--End of 3rd Window-->
+                    </div> <!--End of Info Column-->
+            </div>
+        </div>
+        
+    </div><!--End of #cotent div-->
+    
+
+	<div id="actionContainer" class="action-container">
+    <div class="fab-container main-action" tooltip="Toolbox">
+        <div class="fab data" id="root">
+            <span></span>
+        </div>
+    </div>
+
+    <div class="fab-container" tooltip="Lock" onclick="viewer.stop();">
+        <div class="fab" id="lock">
+            <span></span>
+        </div>
+    </div>
+
+    <div class="fab-container" tooltip="Reset" onclick="tool_Back();">
+        <div class="fab" id="reset">
+            <span></span>
+        </div>
+    </div>
+    
+	</div>
+
+             
+ 
+     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.js"></script>
+     <script src="js/angular-route.js"></script>
+     <script src="js/angular-ui-router.min.js"></script>    
+     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+     <script src="//npmcdn.com/angular-esri-map@2"></script>
+     <script src="js/viewAppp.js"></script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+   
+    function showModel() {
+        //var viewer = new xViewer('viewer-canvas');
+        browser.load("content/LakesideRestaurant.json");
+        viewer.load("content/LakesideRestaurant.wexBIM");
+        
+        viewer.start();
+		
+        $(window).load(function () {
+            $('.scrollable').css('height', 0.93* window.innerHeight + 'px');
+        });
+
+    }
+	
+    function highLightWall()
+    {
+                viewer.resetStates();
+				viewer.renderingMode = "normal";
+				viewer.renderingMode = 'x-ray';
+				viewer.setState(xState.HIGHLIGHTED,xProductType.IFCWALLSTANDARDCASE );
+
+				viewer.setState(xState.HIGHLIGHTED, xProductType.IFCWALL );    
+        
+    }
+     
+        
+       function highLightDoor()
+    {
+                viewer.resetStates();
+				viewer.renderingMode = "normal";
+				viewer.renderingMode = 'x-ray';
+				viewer.setState(xState.HIGHLIGHTED, xProductType.IFCDOOR );	
+                viewer.setState(xState.HIGHLIGHTED, xProductType.IFCSTAIR );	
+                viewer.setState(xState.HIGHLIGHTED, xProductType.IFCSTAIRFLIGHT);	
+    }
+        
+        function searchBuilding()
+		{           
+				
+                viewer.renderingMode = 'x-ray';
+                var _searchelement = "IFC"+ document.getElementById("usr").value.toString().toUpperCase();
+				viewer.setState(xState.HIGHLIGHTED, xProductType[_searchelement] );	
+				if(xProductType[_searchelement] != null)
+				{document.getElementById("usr").value ="";}
+		}
+		
+		
+		function resetSearch()
+		{
+			viewer.renderingMode = 'normal';
+		}
+        
+        
+	function tool_Back() {
+        viewer.start();
+        viewer.resetStates();
+        viewer.renderingMode = "normal";
+        viewer.setCameraPosition(originalCamera);
+    }
+
+        
+</script>
+ 
+
+</body>
+ 
+
+</html>

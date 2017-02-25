@@ -1,0 +1,165 @@
+CONDITION_,YEAR_,Geography,Total_Cases,Total_Rate
+Suicide,2010,Alpine,,
+Suicide,2011,Alpine,5,32.98370605
+Suicide,2012,Alpine,,
+Suicide,2013,Alpine,,
+Suicide,2010,Anza-Borrego Springs,,
+Suicide,2011,Anza-Borrego Springs,,
+Suicide,2012,Anza-Borrego Springs,,
+Suicide,2013,Anza-Borrego Springs,,
+Suicide,2010,Carlsbad,11,9.589232164
+Suicide,2011,Carlsbad,16,13.8102472
+Suicide,2012,Carlsbad,15,12.77389357
+Suicide,2013,Carlsbad,13,10.99523822
+Suicide,2010,Central San Diego,23,13.89132155
+Suicide,2011,Central San Diego,26,15.66585927
+Suicide,2012,Central San Diego,37,22.17959477
+Suicide,2013,Central San Diego,35,20.85816448
+Suicide,2010,Chula Vista,9,7.810194908
+Suicide,2011,Chula Vista,14,12.07802404
+Suicide,2012,Chula Vista,9,7.718497809
+Suicide,2013,Chula Vista,11,9.451714627
+Suicide,2010,Coastal,11,14.59369818
+Suicide,2011,Coastal,13,17.20600887
+Suicide,2012,Coastal,16,21.08231326
+Suicide,2013,Coastal,12,15.79155152
+Suicide,2010,Coronado,,
+Suicide,2011,Coronado,,
+Suicide,2012,Coronado,8,34.50209169
+Suicide,2013,Coronado,,
+Suicide,2010,Del Mar-Mira Mesa,13,8.250353813
+Suicide,2011,Del Mar-Mira Mesa,9,5.678878358
+Suicide,2012,Del Mar-Mira Mesa,17,10.61909313
+Suicide,2013,Del Mar-Mira Mesa,11,6.833146975
+Suicide,2010,El Cajon,17,13.6517675
+Suicide,2011,El Cajon,13,10.37816434
+Suicide,2012,El Cajon,14,11.10696804
+Suicide,2013,El Cajon,16,12.68260976
+Suicide,2010,Elliott-Navajo,10,11.22258883
+Suicide,2011,Elliott-Navajo,15,16.77383282
+Suicide,2012,Elliott-Navajo,19,21.05076558
+Suicide,2013,Elliott-Navajo,12,13.25454244
+Suicide,2010,Escondido,20,12.26835806
+Suicide,2011,Escondido,16,9.742493713
+Suicide,2012,Escondido,18,10.8802089
+Suicide,2013,Escondido,23,13.85884465
+Suicide,2010,Fallbrook,8,16.91188906
+Suicide,2011,Fallbrook,9,18.80013369
+Suicide,2012,Fallbrook,10,20.761102
+Suicide,2013,Fallbrook,12,24.77956512
+Suicide,2010,Harbison Crest/El Cajon,30,21.55621502
+Suicide,2011,Harbison Crest/El Cajon,23,16.4245826
+Suicide,2012,Harbison Crest/El Cajon,18,12.77356723
+Suicide,2013,Harbison Crest/El Cajon,24,17.00210401
+Suicide,2010,Jamul,,
+Suicide,2011,Jamul,,
+Suicide,2012,Jamul,,
+Suicide,2013,Jamul,,
+Suicide,2010,Kearny Mesa,35,23.14692344
+Suicide,2011,Kearny Mesa,25,16.48032908
+Suicide,2012,Kearny Mesa,19,12.46383847
+Suicide,2013,Kearny Mesa,34,22.11223912
+Suicide,2010,La Mesa,11,18.61441094
+Suicide,2011,La Mesa,10,16.67055646
+Suicide,2012,La Mesa,11,18.23607427
+Suicide,2013,La Mesa,15,24.85089463
+Suicide,2010,Laguna-Pine Valley,,
+Suicide,2011,Laguna-Pine Valley,,
+Suicide,2012,Laguna-Pine Valley,,
+Suicide,2013,Laguna-Pine Valley,,
+Suicide,2010,Lakeside,7,12.49553731
+Suicide,2011,Lakeside,7,12.41927471
+Suicide,2012,Lakeside,,
+Suicide,2013,Lakeside,,
+Suicide,2010,Lemon Grove,,
+Suicide,2011,Lemon Grove,6,20.0340579
+Suicide,2012,Lemon Grove,,
+Suicide,2013,Lemon Grove,,
+Suicide,2010,Mid-City,24,14.72013346
+Suicide,2011,Mid-City,21,12.86796245
+Suicide,2012,Mid-City,22,13.34117633
+Suicide,2013,Mid-City,19,11.52241413
+Suicide,2010,Miramar,,
+Suicide,2011,Miramar,,
+Suicide,2012,Miramar,,
+Suicide,2013,Miramar,,
+Suicide,2010,Mountain Empire,,
+Suicide,2011,Mountain Empire,,
+Suicide,2012,Mountain Empire,5,58.39075091
+Suicide,2013,Mountain Empire,,
+Suicide,2010,National City,,
+Suicide,2011,National City,7,11.96765314
+Suicide,2012,National City,,
+Suicide,2013,National City,6,10.23105124
+Suicide,2010,North San Diego,7,6.570178897
+Suicide,2011,North San Diego,11,10.22162338
+Suicide,2012,North San Diego,19,17.12838173
+Suicide,2013,North San Diego,11,9.855747693
+Suicide,2010,Oceanside,19,11.89581768
+Suicide,2011,Oceanside,24,14.99109903
+Suicide,2012,Oceanside,26,16.1267313
+Suicide,2013,Oceanside,30,18.57240141
+Suicide,2010,Palomar-Julian,,
+Suicide,2011,Palomar-Julian,,
+Suicide,2013,Palomar-Julian,,
+Suicide,2012,Palomar-Julian,,
+Suicide,2010,Pauma,,
+Suicide,2011,Pauma,,
+Suicide,2012,Pauma,,
+Suicide,2013,Pauma,,
+Suicide,2010,Pendleton,,
+Suicide,2011,Pendleton,5,13.27985976
+Suicide,2012,Pendleton,,
+Suicide,2013,Pendleton,,
+Suicide,2010,Peninsula,7,11.12241007
+Suicide,2011,Peninsula,5,7.928956549
+Suicide,2012,Peninsula,8,12.64782141
+Suicide,2013,Peninsula,10,15.92001783
+Suicide,2010,Poway,18,20.85481572
+Suicide,2011,Poway,6,6.904408465
+Suicide,2012,Poway,,
+Suicide,2013,Poway,10,11.39834952
+Suicide,2010,Ramona,,
+Suicide,2011,Ramona,,
+Suicide,2012,Ramona,9,25.25606847
+Suicide,2013,Ramona,5,13.95439703
+Suicide,2010,San Dieguito,10,10.69198529
+Suicide,2011,San Dieguito,8,8.430281571
+Suicide,2012,San Dieguito,11,11.51832461
+Suicide,2013,San Dieguito,17,17.66912995
+Suicide,2010,San Marcos,11,12.22697716
+Suicide,2011,San Marcos,5,5.543974808
+Suicide,2012,San Marcos,9,9.839829443
+Suicide,2013,San Marcos,13,14.1453489
+Suicide,2010,Santee,6,11.72997595
+Suicide,2011,Santee,10,19.34497901
+Suicide,2012,Santee,7,13.47449471
+Suicide,2013,Santee,7,13.37946062
+Suicide,2010,South Bay,12,8.89455505
+Suicide,2011,South Bay,14,10.36070038
+Suicide,2012,South Bay,11,8.112573013
+Suicide,2013,South Bay,15,10.97076656
+Suicide,2010,Southeastern San Diego,,
+Suicide,2011,Southeastern San Diego,19,12.14787157
+Suicide,2012,Southeastern San Diego,10,6.368088236
+Suicide,2013,Southeastern San Diego,16,10.16621766
+Suicide,2010,Spring Valley,,
+Suicide,2011,Spring Valley,8,9.7873694
+Suicide,2012,Spring Valley,7,8.514261388
+Suicide,2013,Spring Valley,6,7.275108217
+Suicide,2010,Sweetwater,5,3.694945315
+Suicide,2011,Sweetwater,12,8.785030308
+Suicide,2012,Sweetwater,6,4.310035199
+Suicide,2013,Sweetwater,6,4.227078666
+Suicide,2010,University,5,7.971049149
+Suicide,2011,University,,
+Suicide,2012,University,5,7.343437904
+Suicide,2013,University,8,11.52887262
+Suicide,2010,Valley Center,,
+Suicide,2011,Valley Center,,
+Suicide,2012,Valley Center,,
+Suicide,2013,Valley Center,6,25.35389816
+Suicide,2010,Vista,12,11.94826402
+Suicide,2011,Vista,14,13.81638031
+Suicide,2012,Vista,21,20.57210031
+Suicide,2013,Vista,19,18.4909443

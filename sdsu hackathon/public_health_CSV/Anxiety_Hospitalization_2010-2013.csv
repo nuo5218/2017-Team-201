@@ -1,0 +1,165 @@
+CONDITION_,YEAR_,Geography,Total_Cases,Total_Rate
+Anxiety,2010,Alpine,,
+Anxiety,2011,Alpine,,
+Anxiety,2012,Alpine,,
+Anxiety,2013,Alpine,,
+Anxiety,2010,Anza-Borrego Springs,,
+Anxiety,2011,Anza-Borrego Springs,,
+Anxiety,2012,Anza-Borrego Springs,,
+Anxiety,2013,Anza-Borrego Springs,,
+Anxiety,2010,Carlsbad,10,8.717483785
+Anxiety,2011,Carlsbad,14,12.0839663
+Anxiety,2012,Carlsbad,11,9.36752195
+Anxiety,2013,Carlsbad,12,10.14945066
+Anxiety,2010,Central San Diego,35,21.13896757
+Anxiety,2011,Central San Diego,43,25.9089211
+Anxiety,2012,Central San Diego,38,22.77904328
+Anxiety,2013,Central San Diego,31,18.47437426
+Anxiety,2010,Chula Vista,28,24.29838416
+Anxiety,2011,Chula Vista,40,34.5086401
+Anxiety,2012,Chula Vista,33,28.30115863
+Anxiety,2013,Chula Vista,25,21.48116961
+Anxiety,2010,Coastal,14,18.57379768
+Anxiety,2011,Coastal,16,21.1766263
+Anxiety,2012,Coastal,16,21.08231326
+Anxiety,2013,Coastal,13,17.10751415
+Anxiety,2010,Coronado,,
+Anxiety,2011,Coronado,,
+Anxiety,2012,Coronado,,
+Anxiety,2013,Coronado,,
+Anxiety,2010,Del Mar-Mira Mesa,13,8.250353813
+Anxiety,2011,Del Mar-Mira Mesa,12,7.571837811
+Anxiety,2012,Del Mar-Mira Mesa,21,13.11770328
+Anxiety,2013,Del Mar-Mira Mesa,9,5.590756616
+Anxiety,2010,El Cajon,22,17.66699324
+Anxiety,2011,El Cajon,28,22.35296935
+Anxiety,2012,El Cajon,37,29.35412981
+Anxiety,2013,El Cajon,22,17.43858843
+Anxiety,2010,Elliott-Navajo,17,19.07840101
+Anxiety,2011,Elliott-Navajo,31,34.66592116
+Anxiety,2012,Elliott-Navajo,14,15.51109043
+Anxiety,2013,Elliott-Navajo,9,9.940906832
+Anxiety,2010,Escondido,29,17.78911919
+Anxiety,2011,Escondido,15,9.133587856
+Anxiety,2012,Escondido,18,10.8802089
+Anxiety,2013,Escondido,32,19.28187082
+Anxiety,2010,Fallbrook,12,25.36783359
+Anxiety,2011,Fallbrook,7,14.6223262
+Anxiety,2012,Fallbrook,,
+Anxiety,2013,Fallbrook,,
+Anxiety,2010,Harbison Crest/El Cajon,43,30.89724152
+Anxiety,2011,Harbison Crest/El Cajon,49,34.99150206
+Anxiety,2012,Harbison Crest/El Cajon,59,41.86891481
+Anxiety,2013,Harbison Crest/El Cajon,40,28.33684002
+Anxiety,2010,Jamul,,
+Anxiety,2011,Jamul,,
+Anxiety,2012,Jamul,,
+Anxiety,2013,Jamul,,
+Anxiety,2010,Kearny Mesa,32,21.16290143
+Anxiety,2011,Kearny Mesa,41,27.02773969
+Anxiety,2012,Kearny Mesa,32,20.99172795
+Anxiety,2013,Kearny Mesa,28,18.21007928
+Anxiety,2010,La Mesa,17,28.767726
+Anxiety,2011,La Mesa,20,33.34111293
+Anxiety,2012,La Mesa,13,21.55172414
+Anxiety,2013,La Mesa,14,23.19416832
+Anxiety,2010,Laguna-Pine Valley,,
+Anxiety,2011,Laguna-Pine Valley,,
+Anxiety,2012,Laguna-Pine Valley,,
+Anxiety,2013,Laguna-Pine Valley,,
+Anxiety,2010,Lakeside,7,12.49553731
+Anxiety,2011,Lakeside,15,26.61273153
+Anxiety,2012,Lakeside,7,12.29126793
+Anxiety,2013,Lakeside,11,19.22337562
+Anxiety,2010,Lemon Grove,8,26.83573178
+Anxiety,2011,Lemon Grove,11,36.72910615
+Anxiety,2012,Lemon Grove,8,26.5692461
+Anxiety,2013,Lemon Grove,6,19.92428771
+Anxiety,2010,Mid-City,23,14.10679457
+Anxiety,2011,Mid-City,32,19.60832373
+Anxiety,2012,Mid-City,40,24.25668423
+Anxiety,2013,Mid-City,31,18.79972831
+Anxiety,2010,Miramar,,
+Anxiety,2011,Miramar,,
+Anxiety,2012,Miramar,,
+Anxiety,2013,Miramar,,
+Anxiety,2010,Mountain Empire,,
+Anxiety,2011,Mountain Empire,,
+Anxiety,2012,Mountain Empire,,
+Anxiety,2013,Mountain Empire,,
+Anxiety,2010,National City,6,10.28841867
+Anxiety,2011,National City,9,15.38698261
+Anxiety,2012,National City,9,15.31862745
+Anxiety,2013,National City,9,15.34657686
+Anxiety,2010,North San Diego,17,15.95614875
+Anxiety,2011,North San Diego,11,10.22162338
+Anxiety,2012,North San Diego,15,13.52240663
+Anxiety,2013,North San Diego,14,12.54367888
+Anxiety,2010,Oceanside,27,16.90458302
+Anxiety,2011,Oceanside,29,18.11424467
+Anxiety,2012,Oceanside,28,17.36724909
+Anxiety,2013,Oceanside,18,11.14344085
+Anxiety,2010,Palomar-Julian,,
+Anxiety,2011,Palomar-Julian,,
+Anxiety,2012,Palomar-Julian,,
+Anxiety,2013,Palomar-Julian,,
+Anxiety,2010,Pauma,,
+Anxiety,2011,Pauma,,
+Anxiety,2012,Pauma,,
+Anxiety,2013,Pauma,,
+Anxiety,2010,Pendleton,,
+Anxiety,2011,Pendleton,,
+Anxiety,2012,Pendleton,,
+Anxiety,2013,Pendleton,,
+Anxiety,2010,Peninsula,14,22.24482013
+Anxiety,2011,Peninsula,,
+Anxiety,2012,Peninsula,7,11.06684374
+Anxiety,2013,Peninsula,6,9.552010698
+Anxiety,2010,Poway,12,13.90321048
+Anxiety,2011,Poway,14,16.11028642
+Anxiety,2012,Poway,5,5.721805802
+Anxiety,2013,Poway,12,13.67801942
+Anxiety,2010,Ramona,5,14.33897333
+Anxiety,2011,Ramona,6,16.9333672
+Anxiety,2012,Ramona,7,19.64360881
+Anxiety,2013,Ramona,,
+Anxiety,2010,San Dieguito,14,14.9687794
+Anxiety,2011,San Dieguito,17,17.91434834
+Anxiety,2012,San Dieguito,18,18.84816754
+Anxiety,2013,San Dieguito,11,11.43296644
+Anxiety,2010,San Marcos,9,10.0038904
+Anxiety,2011,San Marcos,14,15.52312946
+Anxiety,2012,San Marcos,15,16.39971574
+Anxiety,2013,San Marcos,14,15.23345266
+Anxiety,2010,Santee,11,21.50495591
+Anxiety,2011,Santee,7,13.54148531
+Anxiety,2012,Santee,16,30.79884504
+Anxiety,2013,Santee,9,17.20216365
+Anxiety,2010,South Bay,18,13.34183257
+Anxiety,2011,South Bay,18,13.32090049
+Anxiety,2012,South Bay,31,22.86270576
+Anxiety,2013,South Bay,15,10.97076656
+Anxiety,2010,Southeastern San Diego,14,8.985590963
+Anxiety,2011,Southeastern San Diego,30,19.18084984
+Anxiety,2012,Southeastern San Diego,25,15.92022059
+Anxiety,2013,Southeastern San Diego,26,16.5201037
+Anxiety,2010,Spring Valley,11,13.58007926
+Anxiety,2011,Spring Valley,14,17.12789645
+Anxiety,2012,Spring Valley,13,15.81219972
+Anxiety,2013,Spring Valley,7,8.487626253
+Anxiety,2010,Sweetwater,9,6.650901567
+Anxiety,2011,Sweetwater,10,7.32085859
+Anxiety,2012,Sweetwater,9,6.465052798
+Anxiety,2013,Sweetwater,7,4.931591777
+Anxiety,2010,University,,
+Anxiety,2011,University,7,10.52916579
+Anxiety,2012,University,8,11.74950065
+Anxiety,2013,University,,
+Anxiety,2010,Valley Center,,
+Anxiety,2011,Valley Center,,
+Anxiety,2012,Valley Center,,
+Anxiety,2013,Valley Center,,
+Anxiety,2010,Vista,9,8.961198013
+Anxiety,2011,Vista,21,20.72457046
+Anxiety,2012,Vista,14,13.71473354
+Anxiety,2013,Vista,11,10.70528354

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+	<link rel="stylesheet" type="text/css" href="css/examples.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+	<link rel="stylesheet" href="css/landPage.css" />
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+	<script type="text/javascript" src="js/jquery.fullPage.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#fullpage').fullpage({
+				sectionsColor: ['#f2f2f2', '#4BBFC3', '#7BAABE', 'whitesmoke', '#ccddff']
+			});
+		});
+	</script>
+
+</head>
+<body>
+
+<div id="fullpage" class="fullScreen">
+	<div class="section active" id="section0"><img src="1.png" class="img-resposive"/> <a href="index.php" type="button" class="img_button">Enter</a></div>
+	<div class="section" id="section1">
+	</div>
+	<div class="section" id="section2"><img src="team.png" class="img-resposive" /> </div>
+	  <div class="section">
+      <iframe width="800" height="600" src="https://www.youtube.com/embed/F0OWiiztPpE" frameborder="0" allowfullscreen> </iframe>
+        </div>
+</div>
+
+</body>
+</html>

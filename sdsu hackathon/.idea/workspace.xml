@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdc54c60-261a-49dc-815e-9da2fd24bf74" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/server.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="143" column="58" lean-forward="true" selection-start-line="143" selection-start-column="58" selection-end-line="143" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-route.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <folding>
+                <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+                <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+                <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+                <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+                <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+                <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+                <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+                <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+                <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+                <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+                <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+                <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+                <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+                <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+                <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-ui-router.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3195">
+              <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manager.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drawWeatherChart</find>
+      <find>content</find>
+      <find>viewDiv</find>
+      <find>viewapp</find>
+      <find>routeui</find>
+      <find>public</find>
+      <find>cors</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jeff/manager/manager.js" />
+        <option value="$PROJECT_DIR$/jeff/css/main.css" />
+        <option value="$PROJECT_DIR$/jeff/index.html" />
+        <option value="$PROJECT_DIR$/jeff/js/Controller.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="417" />
+    <option name="y" value="272" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdsu hackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdsu hackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdsu hackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdsu hackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sdsu hackathon/jeff/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="Docker Deployment">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc54c60-261a-49dc-815e-9da2fd24bf74" name="Default" comment="" />
+      <created>1487447639975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487447639975</updated>
+      <workItem from="1487447641829" duration="3477000" />
+      <workItem from="1420070476480" duration="4179000" />
+      <workItem from="1487539292389" duration="2767000" />
+      <workItem from="1487796399503" duration="630000" />
+      <workItem from="1487865136222" duration="2000" />
+      <workItem from="1487916222336" duration="196000" />
+      <workItem from="1487984671770" duration="534000" />
+      <workItem from="1488042447218" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12421000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="417" y="272" width="1280" height="773" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25258142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35095447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7050">
+          <caret line="470" column="7" lean-forward="false" selection-start-line="470" selection-start-column="7" selection-end-line="470" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/server/server.ts" />
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="true" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/viewAppp.js" />
+    <entry file="file://$PROJECT_DIR$/jeff/js/webgl-utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/viewApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="213" column="2" lean-forward="false" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/manager/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-ui-router.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/js/angular-route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1469166660000" expanded="true" signature="13319:14066" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="14606:14759" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="14841:14950" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15035:15147" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15219:15977" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15286:15683" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="15398:15668" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15497:15651" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="15735:15842" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="16135:16722" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="30692:31406" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31017:31087" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31465:31570" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31632:31794" ph="..." />
+            <marker date="1469166660000" expanded="true" signature="31878:32064" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32088:32123" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32180:32478" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32511:32543" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32591:32620" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32668:32701" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32831:33414" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="32927:33413" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="32997:33141" ph="{&quot;templateUrl&quot;: 'book.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33196:33349" ph="{&quot;templateUrl&quot;: 'chapter.html'...}" />
+            <marker date="1469166660000" expanded="true" signature="33450:33684" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33544:33683" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33720:33850" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33760:33849" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="33889:34022" ph="[...]" />
+            <marker date="1469166660000" expanded="true" signature="33929:34021" ph="{...}" />
+            <marker date="1469166660000" expanded="true" signature="34159:34692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/server/server.ts" />
+    <entry file="file://$PROJECT_DIR$/jeff/js/Controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="4" lean-forward="false" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1487797180000" expanded="false" signature="4932:5388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="143" column="58" lean-forward="true" selection-start-line="143" selection-start-column="58" selection-end-line="143" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

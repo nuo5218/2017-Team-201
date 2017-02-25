@@ -1,0 +1,118 @@
+<body>
+	
+	<h1 align=center>Rescue Request Form</h1>
+	<hr align=center color=black size=2>
+	
+	<form action="submitform.php" method=post>
+	
+		<p>Number of people:</p>
+		<input type="text" name="number"/><br/>
+		
+		<p>Message:</p>
+		<textarea name="message" rows="10" cols="50"></textarea>
+		
+		<p>Pick your location:</p>
+		Address: <input type="text" size="50" name="address" id="address"/>
+		Longitude: <input type="text" size="15" name="longitude" id="longitude"/>
+		Latitude: <input type="text" size="15" name="latitude" id="latitude"/>
+		<input type="submit" name="submit" value="Submit">
+		
+		<br/><br/>
+	</form>
+	
+	<div id="viewDiv"></div>
+	
+	<script>
+	var view;
+  
+    require([
+		"esri/Map",
+		"esri/views/MapView",
+		"esri/Graphic",
+		"esri/geometry/Point",
+		"esri/symbols/SimpleMarkerSymbol",
+		"esri/tasks/Locator",
+		"esri/tasks/support/AddressCandidate",
+		"dojo/on",
+		"dojo/domReady!"
+    ], function(
+		Map, MapView, Graphic, Point, SimpleMarkerSymbol, Locator, AddressCandidate, on
+    ) {
+		
+		var map = new Map({
+			basemap: "streets"
+		});
+
+		view = new MapView({
+			center: [-117.195, 34.057],
+			container: "viewDiv",
+			map: map,
+			zoom: 14
+		});
+		
+		// geocoding service
+		var locator = new Locator({
+			url: "http://utility.arcgis.com/usrsvcs/servers/c118337e6f8a48ca8de41ffd23211d59/rest/services/World/GeocodeServer"
+		});
+		
+		on(view, "click", reverseGeocoding);
+		
+		function reverseGeocoding(evt) {
+			var markerSymbol = new SimpleMarkerSymbol({
+				color: [226, 119, 40],
+				outline: { // autocasts as new SimpleLineSymbol()
+				color: [255, 255, 255],
+				width: 2
+				}
+			});
+		
+			var pointGraphic = new Graphic({
+				geometry: evt.mapPoint,
+				symbol: markerSymbol
+			});
+
+			view.graphics.removeAll();
+			view.graphics.add(pointGraphic);
+			
+			// reverse geocoding
+			locator.locationToAddress(evt.mapPoint, 100).then(function(cand) {
+				var addr = document.getElementById("address");
+				var lon = document.getElementById("longitude");
+				var lat = document.getElementById("latitude");
+				addr.value = cand.address.Match_addr;
+				lon.value = cand.location.longitude;
+				lat.value = cand.location.latitude;
+			});
+		}
+		
+		function addPointByLongLat(lon, lat) {
+	
+			// First create a point geometry (this is the location of the Titanic)
+			var point = new Point({
+				longitude: lon,
+				latitude: lat
+			});
+
+			// Create a symbol for drawing the point
+			var markerSymbol = new SimpleMarkerSymbol({
+				color: [226, 119, 40],
+				outline: { // autocasts as new SimpleLineSymbol()
+				color: [255, 255, 255],
+				width: 2
+				}
+			});
+
+			// Create a graphic and add the geometry and symbol to it
+			var pointGraphic = new Graphic({
+				geometry: point,
+				symbol: markerSymbol
+			});
+
+			// Add the graphics to the view's graphics layer
+			view.graphics.add(pointGraphic);
+		}
+    });
+	</script>
+</body>
+
+</html>

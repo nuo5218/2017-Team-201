@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="viewApp">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Aida</title>
+    <link rel="stylesheet" href="css/landPage.css" />
+    <link rel="stylesheet" type="text/css" href="css/examples.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="js/jquery.fullPage.min.js" ></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script type="text/javascript">
+		$(document).ready(function() {
+			$('#fullpage').fullpage({
+				sectionsColor: ['#f2f2f2', '#4BBFC3', '#7BAABE', '#ccddff']
+			});
+		});
+	</script>
+</head>
+
+<body>
+	
+	<!--MAIN CONTENT-->
+<div id="fullpage" class="fullScreen">
+    <div class="section active img_container1" id="section0"><a type="button" class="img_button">Enter</a></div>
+	<div class="section" id="section2"></div>
+	<div class="section img_container3" id="section3"></div>
+</div>
+
+
+</body>
+</html>
